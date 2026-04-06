@@ -4,6 +4,10 @@ Um curso para aprender e trabalhar com versionamente de código e respositórios
 
 Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
 
+Se ligue no nosso site e agenda para ficar por dentro de tudo que vai rolar em 2026.
+
+[teomewhy.org](https://teomewhy.org/schedule)
+
 ## Fluxo de trabalho Git local
 
 01. git checkout -b <nova-branch>
